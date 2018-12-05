@@ -1,0 +1,13 @@
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\bin\Debug\LinkedIn.exe.config
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\bin\Debug\LinkedIn.exe
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\bin\Debug\LinkedIn.pdb
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\bin\Debug\WebDriver.dll
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\bin\Debug\WebDriver.xml
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\obj\Debug\LinkedIn.csprojAssemblyReference.cache
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\obj\Debug\LinkedIn.csproj.CoreCompileInputs.cache
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\obj\Debug\LinkedIn.csproj.CopyComplete
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\obj\Debug\LinkedIn.exe
+c:\users\uc235175\source\repos\LinkedIn\LinkedIn\obj\Debug\LinkedIn.pdb
+C:\Users\UC235175\source\repos\LinkedIn\LinkedIn\bin\Debug\nunit.framework.dll
+C:\Users\UC235175\source\repos\LinkedIn\LinkedIn\bin\Debug\nunit.framework.pdb
+C:\Users\UC235175\source\repos\LinkedIn\LinkedIn\bin\Debug\nunit.framework.xml
